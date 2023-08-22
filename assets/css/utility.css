@@ -1,0 +1,138 @@
+.font-main{
+	font-family: 'Cormorant Garamond';
+}
+.font-inter{
+	font-family: 'Inter';
+}
+.f-400{
+	font-weight:400;
+}
+.f-500{
+	font-weight:500;
+}
+.f-600{
+	font-weight:600;
+}
+.f-700{
+	font-weight:700;
+}
+.font-10{
+	font-size:10px;
+}
+.font-11{
+	font-size:11px;
+}
+.font-12{
+	font-size:12px;
+}
+.font-15{
+	font-size:15px;
+}
+.font-16{
+	font-size:16px;
+}
+.font-14{
+	font-size:14px;
+}
+.font-18{
+	font-size:18px;
+}
+.font-32{
+	font-size:32px;
+}
+.font-30{
+	font-size:30px;
+}
+.font-40{
+	font-size:40px;
+}
+.font-56{
+	font-size:56px;
+}
+.font-24{
+	font-size:24px;
+}
+.font-64{
+	font-size:64px;
+}
+body{
+	font-family: 'Nunito Sans 7pt Condensed';
+}
+
+.code{
+	display:none;
+}
+a{
+	text-decoration:none;
+}
+ul,ol{
+	list-style:none;
+}
+.w-60{
+	width:60%;
+	margin:0 auto;
+}
+
+.w-70{
+	width:70%;
+}
+.w-600{
+	width:600px;
+}
+.w-900{
+	width:900px;
+}
+.p-30{
+	padding:30px 0;
+}
+.padding-top-90{
+	padding-top:90px;
+}
+.padding-top-50{
+	padding-top:50px;
+}
+.padding-section{
+	padding:100px 0;
+}
+.border-FFFFFF2E{
+	border-color:#FFFFFF2E;
+}
+.text-yellow{
+	color:#f4d225;
+}
+.text-pink{
+	color:#fbbfb4;
+}
+.text-skin{
+	color:#faf2e5;
+}
+.text-light-green{
+	color:#007d71;
+}
+.text-medium-green{
+	color:#025d53;
+}
+.text-dark-green{
+	color:#034238;
+}
+.bg-light-green{
+	background:#007d71;
+}
+
+.bg-medium-green{
+	background:#025d53;
+}
+
+.bg-dark-green{
+	background:#034238;
+}
+.line-32{
+	line-height:32px;
+}
+.line-42{
+	line-height:42px;
+}
+.border-t{
+	border-top:1px solid rgba(0,0,0,0.2);
+}
+
